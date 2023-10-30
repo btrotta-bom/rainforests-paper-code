@@ -7,3 +7,6 @@ To produce the benchmark forecasts:
 are used for both calibration methods.
 * For reliability calibration, run `create_reliability_tables.py`, then `apply_reliability_tables.py`.
 * For EMOS, run `calculate_emos_coefficients_hclr.py`, then `apply_emos_hclr.py`.
+
+Pre-trained models for ECMWF are available in the `trained_models` folder.
+
